@@ -5,4 +5,3 @@ Software Testing: This involves the process of evaluating a software application
 
 Medical Testing: In the context of healthcare, testing can refer to diagnostic procedures or examinations to determine the presence or absence of a particular condition or disease.
 
-Product Testing: This involves evaluating a product's performance, quality, or safety through various tests before it is released to the market.
