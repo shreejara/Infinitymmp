@@ -1,1 +1,8 @@
 testng.org
+Testing can refer to various activities depending on the context. Here are a few common meanings:
+
+Software Testing: This involves the process of evaluating a software application to identify any bugs, errors, or defects. It ensures that the software functions correctly and meets the specified requirements.
+
+Medical Testing: In the context of healthcare, testing can refer to diagnostic procedures or examinations to determine the presence or absence of a particular condition or disease.
+
+Product Testing: This involves evaluating a product's performance, quality, or safety through various tests before it is released to the market.
