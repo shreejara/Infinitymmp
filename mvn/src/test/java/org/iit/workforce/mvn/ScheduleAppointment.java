@@ -26,7 +26,7 @@ WebDriver driver;
 		driver.findElement(By.xpath("//span[normalize-space()='Schedule Appointment']")).click();
 		driver.findElement(By.xpath("//input[@value='Create new appointment']")).click();
 		
-		driver.findElement(By.xpath("//h4[text()='Dr.Shanmugam']/parent::li/div/p[text()='Description:Orthopedic']/ancestor::ul/following-sibling::button")).click();
+		driver.findElement(By.xpath("//h4[text()='Dr.Agarval']/parent::li/div/p[text()='Description:Orthopedic']/ancestor::ul/following-sibling::button")).click();
 	}
 
 }
